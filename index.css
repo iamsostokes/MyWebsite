@@ -1,0 +1,272 @@
+body {
+    background: linear-gradient(rgb(95, 98, 107) , rgb(37, 49, 59));
+
+}
+
+
+.MenuBar {
+    width: 90%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    padding-left: 8%;
+    border-style: solid;
+    border-color: rgb(38, 28, 46);
+    margin-right: 0 auto;
+    background: linear-gradient(rgb(155, 155, 155), rgb(160, 182, 223));
+
+}
+
+.MenuTab {
+    float: left;
+}
+
+.NavTab {
+    width: 25%;
+    height: 550px;
+    border-style: solid;
+    background: linear-gradient(rgb(95, 98, 107) , rgb(37, 49, 59));
+    float: left;
+    display: flex;
+    flex-direction: column;
+
+}
+
+.Tab {
+    background: linear-gradient(rgb(155, 155, 155), rgb(160, 182, 223));
+    margin: 2% 0;
+    padding-left: 10%;
+    border-radius: 15%;
+}
+
+.MenuBody {
+    width: 72%;
+    height: 550px;
+    background: linear-gradient(rgb(155, 155, 155), rgb(160, 182, 223));
+    border-style: solid;
+    float: left;
+    margin: 1px;
+}
+
+.profilePicture {
+    height: 28%;
+    float: right;
+    padding-right: 0%;
+    border-style: solid;
+    margin-right: 5%;
+}
+
+.info {
+    float: right;
+    /* clear: both; */
+    font-size: 70%;
+    padding-right: 8%;
+}
+
+.levelBar {
+    height: 2px;
+    width: 200px;
+    border: 2px solid;
+    background-color: darkred;
+}
+
+.bio {
+    float: left;
+    border-style: double;
+    width: 65%;
+    padding: 1%;
+    height: 300px;
+}
+
+.grandCircus {
+    width: 99%;
+    height: 190px;
+    border-style: solid;
+    display: flex;
+    flex-direction: co;
+}
+
+.grandCircusLogo {
+    height: 80%;
+    margin: 2%;
+}
+
+
+
+.AboutContent {
+    width: 100%;
+    height: 80%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    margin: auto;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    background-color: rgb(75, 29, 9);
+   
+   
+   
+}
+
+hr {
+    border-color: black;
+    border-style: dotted;
+}
+
+.logoAnimation {
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    margin-top: 6%;
+    margin-bottom: 6%;
+
+}
+
+.SkillsTitle {
+    text-align: center;
+    background-color: rgb(75, 29, 9);
+    /* margin: auto */
+}
+
+.SkillsContent {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    background-color: rgb(75, 29, 9);
+}
+
+.WorkTitle {
+    text-align: center;
+}
+
+.WorkRow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    justify-content: space-around;
+    margin: 2%;
+}
+
+.ContactContent {
+    text-align: center;
+    margin: auto;
+    margin-bottom: 25%;
+    margin-top: 10%;
+}
+
+.MenuBody2 {
+    width: 72%;
+    height: 550px;
+    background: linear-gradient(rgb(155, 155, 155), rgb(160, 182, 223));
+    border-style: solid;
+    float: left;
+    margin: 1px;
+}
+
+.flexContainer1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flexContainer2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flexContainer3 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Badge {
+    margin: 2%;
+    /* font-size: 50%; */
+}
+
+
+.htmlLogo {
+    width: 20%;
+}
+
+.cssLogo {
+    width: 20%;
+}
+
+.javascriptLogo {
+    width: 20%;
+}
+
+.jqueryLogo {
+    width: 20%;
+}
+
+.angularLogo {
+    width: 20%
+}
+
+.bootstrapLogo {
+    width: 20%;
+}
+
+.nodeLogo {
+    width: 20%;
+}
+
+.gitLogo {
+    width: 20%;
+}
+
+.MenuBody3 {
+    width: 72%;
+    height: 550px;
+    background: linear-gradient(rgb(155, 155, 155), rgb(160, 182, 223));
+    border-style: solid;
+    float: left;
+    margin: 1px;
+}
+
+.flexContainer4 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flexContainer5 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.flexContainer6 {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.Badge2 {
+    margin: 2%;
+    text-align: center;
+    /* font-size: 50%; */
+}
+
+
+.visualStudioCodeLogo {
+    width: 50%;
+}
+
+.slackLogo {
+    width: 11%;
+}
+
+.sketchBookProLogo {
+    width: 40%;
+}
+
+.photoShopLogo {
+    width: 11%;
+}
+
+
